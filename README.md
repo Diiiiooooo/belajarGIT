@@ -8,3 +8,10 @@ Daftar tugas / branch
 7. Tugas-finalProject
 Daftar perintah GiT
 …
+git checkout -b Tugas-git
+nano Tugas-Git.txt
+git add Tugas-Git.txt
+git commit -m "Terserah"
+git checkout main
+git merge Tugas-git
+git  push
